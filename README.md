@@ -5,7 +5,6 @@
 - ⚡ Fun fact: J'aime le sport chef
 
 - The site Web is : https://lekyks77.github.io/mangavibz/
-- Apiculture Web is : https://lekyks77.github.io/La-Belle-Abeille/
 - Bonne Lecture !!
 
 <!---
